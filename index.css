@@ -1,0 +1,37 @@
+.nav-link{
+    font-family: 'Montserrat', sans-serif; 
+       margin: 200px 30px;
+    color: #807d77    !important;
+    font-size: 24px;
+}
+
+.nav-link:hover{
+  color: #9b870c  !important; 
+}
+
+.leo {
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 720px;
+    font-family: 'Kolker Brush', cursive;
+    font-size: 100px;
+  color: #907f0e ;
+}
+
+
+.leo2 {
+    display: inline-block;
+    position: absolute;
+    margin: 90px 1200px;
+
+}
+
+.aboutMe{
+
+    position: absolute;
+    margin: 50px 390px;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif; 
+    
+}
