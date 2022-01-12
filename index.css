@@ -16,6 +16,11 @@ hr{
   bottom: 75px;
 }
 
+.hr2{
+  position: relative;
+  top: 800px;
+}
+
 .leo {
   display: inline-block;
   position: absolute;
