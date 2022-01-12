@@ -1,12 +1,19 @@
+
+
 .nav-link{
   font-family: 'Montserrat', sans-serif; 
      margin: 200px 30px;
-  color: #807d77    !important;
+  color: #314E52    !important;
   font-size: 24px;
 }
 
 .nav-link:hover{
-color: #9b870c  !important; 
+color: #F05454  !important; 
+}
+
+hr{
+  position: relative;
+  bottom: 75px;
 }
 
 .leo {
@@ -16,7 +23,7 @@ color: #9b870c  !important;
   left: 740px;
   font-family: 'Kolker Brush', cursive;
   font-size: 100px;
-color: #907f0e ;
+color: #F05454 ;
 }
 
 
@@ -33,5 +40,5 @@ color: #907f0e ;
   margin: 50px 390px;
   font-size: 55px;
   font-family: 'Montserrat', sans-serif; 
-  
+  color: #F05454;
 }
