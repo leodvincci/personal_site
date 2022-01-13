@@ -21,6 +21,18 @@ hr{
   top: 800px;
 }
 
+.sk{
+  display: inline-block;
+  position: relative;
+  top: 1000px;
+  left: 800px;
+  font-family: 'Montserrat', sans-serif; 
+  color: #314E52    !important;
+  font-size: 24px;
+
+
+}
+
 .leo {
   display: inline-block;
   position: absolute;
