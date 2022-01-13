@@ -60,13 +60,13 @@ hr{
 
 .tech-know{
   position: absolute;
-  top: 1100px;
+  top: 1000px;
   left: 200px;
-  font-size: 75px;
+  font-size: 65px;
   font-family: 'Be Vietnam Pro';
   font-weight: 900;
-  color: #191919;
-
+  color: #041C32;
+  left: 75;
   
 }
 
