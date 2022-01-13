@@ -13,6 +13,16 @@ body{
 color: #F05454  !important; 
 }
 
+.about-text{
+  position: relative;
+  left: 750px;
+  top: 115px;
+  color: #191919;
+  font-weight: 300;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif; 
+}
+
 .icons{
   position: absolute;
   top: 725px;
