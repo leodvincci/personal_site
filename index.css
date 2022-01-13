@@ -1,6 +1,4 @@
-body{
-  background-color: #ecdbba50 !important
-}
+
 
 .nav-link{
   font-family: 'Montserrat', sans-serif; 
@@ -12,6 +10,15 @@ body{
 .nav-link:hover{
 color: #F05454  !important; 
 }
+
+/* .about-head{
+  display: block;
+  position: relative;
+  left: 215px;
+  font-size: 75px;
+  font-family: 'Be Vietnam Pro';
+  font-weight: 900;
+} */
 
 .about-text{
   position: relative;
@@ -51,6 +58,18 @@ hr{
 
 }
 
+.tech-know{
+  position: absolute;
+  top: 1100px;
+  left: 200px;
+  font-size: 75px;
+  font-family: 'Be Vietnam Pro';
+  font-weight: 900;
+  color: #191919;
+
+  
+}
+
 .leo {
   display: inline-block;
   position: absolute;
@@ -76,4 +95,6 @@ color: #F05454 ;
   font-family: 'Be Vietnam Pro';
   font-weight: 900;
   color: #C84B31;
+
+  
 }
