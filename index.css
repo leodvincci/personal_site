@@ -4,11 +4,17 @@
   font-family: 'Montserrat', sans-serif; 
      margin: 200px 30px;
   color: #314E52    !important;
-  font-size: 24px;
+  font-size: 15px;
 }
 
 .nav-link:hover{
 color: #F05454  !important; 
+}
+
+.icons{
+  position: absolute;
+  top: 275px;
+  left: 580px;
 }
 
 hr{
@@ -37,7 +43,7 @@ hr{
   display: inline-block;
   position: absolute;
   top: 50px;
-  left: 740px;
+  left: 35%;
   font-family: 'Kolker Brush', cursive;
   font-size: 100px;
 color: #F05454 ;
