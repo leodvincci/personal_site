@@ -2,8 +2,8 @@
 
 .nav-link{
   font-family: 'Montserrat', sans-serif; 
-     margin: 75px 30px;
-  color: #2D4263    !important;
+     margin: 15px 50px;
+  color: #191919    !important;
   font-size: 15px;
 }
 
@@ -23,7 +23,7 @@ color: #F05454  !important;
 .about-text{
   position: absolute;
   left: 720px;
-  top: 360px;
+  top: 320px;
   color: #191919;
   font-weight: 300;
   font-size: 20px;
@@ -49,14 +49,19 @@ hr{
 .sk{
   display: inline-block;
   position: relative;
-  top: 550px;
-  left: 10px;
+  top: 300px;
   font-family: 'Montserrat', sans-serif; 
   color: #f4a83e    !important;
   font-size: 24px;
   font-weight: 200;
 
 
+}
+
+.student-image{
+  position: relative;
+  top: 150px;
+  left: 445px;
 }
 
 li{
@@ -88,7 +93,7 @@ color: #F05454 ;
 .man-image{
   height: 30px;
   position: relative;
-  top: 400px;
+  top: 200px;
   left: 750px;
 }
 
