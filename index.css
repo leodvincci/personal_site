@@ -1,9 +1,11 @@
-
+body{
+  background-color: #ecdbba50 !important
+}
 
 .nav-link{
   font-family: 'Montserrat', sans-serif; 
-     margin: 200px 30px;
-  color: #314E52    !important;
+     margin: 175px 30px;
+  color: #2D4263    !important;
   font-size: 15px;
 }
 
@@ -13,8 +15,8 @@ color: #F05454  !important;
 
 .icons{
   position: absolute;
-  top: 275px;
-  left: 580px;
+  top: 725px;
+  left: 250px;
 }
 
 hr{
@@ -42,7 +44,7 @@ hr{
 .leo {
   display: inline-block;
   position: absolute;
-  top: 50px;
+  top: 20px;
   left: 35%;
   font-family: 'Kolker Brush', cursive;
   font-size: 100px;
@@ -58,10 +60,10 @@ color: #F05454 ;
 }
 
 .aboutMe{
-
   position: absolute;
-  margin: 50px 390px;
-  font-size: 55px;
-  font-family: 'Montserrat', sans-serif; 
-  color: #F05454;
+  margin: 20px 200px;
+  font-size: 75px;
+  font-family: 'Be Vietnam Pro';
+  font-weight: 900;
+  color: #C84B31;
 }
